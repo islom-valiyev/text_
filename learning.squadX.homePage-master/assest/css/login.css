@@ -1,0 +1,203 @@
+body{
+    margin: 0px 0px 0px 0px;
+}
+.l_naw{
+    width: 100%;
+    height: 60px;
+    background-color:#1d2126!important;
+    margin-top: 0px;
+    z-index: 1;
+    display: flex;
+    justify-content: space-between;
+    color: white;
+}
+.l_naw li  span {
+    font-size: 25px;
+}
+.l_naw li {
+    display: inline-block;
+}
+.l_right{
+    margin-left: 150px;
+}
+.l_left{
+    margin-right: 200px;
+}
+.l_left li{
+    display: inline-block;
+    margin-left: 15px;
+    margin-top: 20px;
+}
+.l_left a{
+    text-decoration: none;
+    color: gray;
+}
+.l_left a:hover{
+    color: blanchedalmond;
+}
+.l_grenn{
+    width: 100%;
+    height: 200px;
+    background-color: rgb(15, 102, 189);
+    display: flex;
+    justify-content: space-between;
+}
+.l_student{
+    width: 30%;
+    height: 150px;
+    margin-left: 150px;
+    margin-top: 20px;
+}
+.l_student li{
+    display: inline-block;
+    color: white;
+}
+.l_student li b {
+    font-size: 40px;
+}
+.l_student li p{
+    font-size: 20px;
+}
+.l_but{
+    width: 250px;
+    height: 80px;
+    margin-right: 100px;
+    margin-top: 50px;
+    background-color: transparent;
+}
+.l_but:hover{
+    background-color: rgb(16, 8, 129);
+}
+.l_stu2 a{
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+}
+.l_stu2 a:hover  {
+    color: blue;
+}
+.l_stu2 p{
+    font-size: 15px;
+    color: white;
+}
+.l_mail input{
+    width: 400px;
+    height: 40px;
+    background-color: rgb(224, 223, 223);
+    border: none;
+}
+.l_mail{
+    width: 500px;
+    height: 300px;
+    margin-left:450px;
+    
+}
+.btn-danger{
+    margin-left: 150px;
+    margin-top: 30px;
+    width: 120px;
+    font-size: 20px;
+}
+.sign{
+    text-align: center;
+    width: 100%;
+    height: 200px;
+    background-color: #f5f7fa;
+    border: 1px solid rgb(212, 210, 210); 
+
+/* ----------------footer---------------- */}
+.row_ff{
+    width: 100%;
+    height:250px;
+}
+
+.f_footer{
+    width: 190px;
+    height: 200px;
+}
+.left_f{
+    margin-left:100px;
+}
+.f_footer h3{
+    color: rgba(48,56,64,.7)!important;
+    font-size: 28px;
+}
+.f_footer a{
+    font-size: 18px;
+    text-decoration: none;
+    color: rgba(48,56,64,.7);
+}
+.f_link li{
+    display: inline-block;
+    margin-left: 50px;
+}
+.f_link{
+    background-color: #fff!important;
+}
+.f_tutorio{
+    width: 80%;
+    height: 200px;
+    background-color: #fff!important;
+    text-align: right;
+    color: rgba(48,56,64,.7);
+}
+.f_tutorio span{
+    color: rgba(48,56,64,.7)!important;
+}
+.f_end{
+    width: 20%;
+    height: 80px;   
+    margin-left: 150px;
+}
+.sosia_media img{
+    width: 24px;
+    height: 24px;
+}
+.sosia_media b{
+    width: 25px;
+    color:hsla(0,0%,100%,.7)!important
+}
+.f_dropdown{
+    background-color: transparent;
+    border: 1px solid white;
+    color: white;
+
+}
+.f_dropdown:hover{
+    background-color: white;
+    color: rgb(33, 33, 233)
+}
+.foot_end1{
+    width: 100%;
+    height: 150px;
+    background-color: #465a6e!important;
+}
+.btn-group{
+    margin-left: 20px;
+}   
+.f_terms{
+    margin: -80px 0 0 900px;
+    text-align: right;
+    width: 300px;
+    color: hsla(0,0%,100%,.5)!important;
+}
+.f_terms a{
+    text-decoration: none;
+    color: white;
+}
+.f_terms a:hover{
+    color: rgb(33, 33, 233)
+}
+.info_foot{
+    width: 100%;
+    height: 40px;
+    background-color: #1d2126!important;
+}
+.btn_color{
+    background-color: transparent;
+    color: white;
+    font-size: 15px;
+}
+.info_foot li{
+    display: inline-block;
+}
